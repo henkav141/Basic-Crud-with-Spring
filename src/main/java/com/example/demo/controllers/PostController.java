@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-/**
- * Created by Henrik on 2017-11-03.
- */
 @Controller
 @RequestMapping("/posts")
 public class PostController {
