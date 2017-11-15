@@ -5,10 +5,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * Created by Henrik on 2017-11-03.
- */
-
 @Entity
 public class Post {
     @Id
